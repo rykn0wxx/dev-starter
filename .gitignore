@@ -1,4 +1,4 @@
-app/assets
+/app/assets
 ### Bower ###
 bower_components
 .bower-cache
